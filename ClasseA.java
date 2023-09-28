@@ -23,6 +23,6 @@ public class ClasseA{
   }
 
   public void MA2(){
-    System.out.prinln("Este e o metodo MA2");
+    System.out.println("Este e o metodo MA2");
   }
 }
