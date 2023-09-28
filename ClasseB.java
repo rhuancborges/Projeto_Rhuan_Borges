@@ -23,6 +23,6 @@ public class ClasseB{
   }
 
   public void MB2(){
-    System.out.prinln("Este e o metodo MB2");
+    System.out.println("Este e o metodo MB2");
   }
 }
