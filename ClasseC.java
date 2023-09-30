@@ -9,4 +9,8 @@ public class ClasseC {
     public void MC2(){
         System.out.println("Este e o metodo MC2");
     }
+
+    public void MC3(){
+        System.out.println("Este e o metodo MC3");
+    }
 }
