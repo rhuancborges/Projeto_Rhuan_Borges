@@ -10,7 +10,12 @@ public class ClasseD {
         System.out.println("Este e o metodo MD2 ");
     }
 
+<<<<<<< HEAD
     public void MD3(){
         System.out.println("Este e o metodo MD3 ");
+=======
+    public void MD4(){
+        System.out.println("Este e o metodo MD4 ");
+>>>>>>> c159ba39bf12ac3431aac399ef1b715aee1fea89
     }
 }
