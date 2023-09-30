@@ -9,4 +9,8 @@ public class ClasseD {
     public void MD2(){
         System.out.println("Este e o metodo MD2 ");
     }
+
+    public void MD4(){
+        System.out.println("Este e o metodo MD4 ");
+    }
 }
